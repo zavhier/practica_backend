@@ -3,7 +3,7 @@ package ar.unpaz.model;
 public class Ruta {
 
 	
-	public Long rutaId;
+	public String rutaId;
 	public String ruta;
 	
 }
